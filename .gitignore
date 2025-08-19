@@ -1,0 +1,19 @@
+# Archivos LaTeX temporales
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Archivos Python temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Otros
+.DS_Store
+
