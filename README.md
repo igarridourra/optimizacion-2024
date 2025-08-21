@@ -3,7 +3,7 @@
 [![License: 
 MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Documents-orange)
-![Python](https://img.shields.io/badge/Python-Code-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-red)
 ![Status](https://img.shields.io/badge/Repo-Active-success)
 
 ---
